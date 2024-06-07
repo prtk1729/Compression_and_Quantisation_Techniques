@@ -1,5 +1,6 @@
 # Model Optimisation Techniques Implementation: Quantisation, Compression Techniques with Knowledge Distillation
 This repository contains a curated list of different ways of optimization and compression techiniques for the Machine Learning Models.
+`IIIT-Hyderabad College Project` on exploring these techniques.
 
 # Main Content
 ## Quick links to sections in this page
