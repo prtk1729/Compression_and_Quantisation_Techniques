@@ -4,7 +4,7 @@ This repository contains a curated list of different ways of optimization and co
 
 Here is a demo of the project:
 
-![Teacher-Student Knowledge Distillation](out_files/knowledge_distillation_output.gif)
+![Teacher-Student Knowledge Distillation](out_files.nosync/knowledge_distillation_output.gif)
 
 # Main Content
 ## Quick links to sections in this page
