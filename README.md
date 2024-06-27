@@ -2,6 +2,10 @@
 This repository contains a curated list of different ways of optimization and compression techiniques for the Machine Learning Models.
 `IIIT-Hyderabad College Project` on exploring these techniques.
 
+Here is a demo of the project:
+
+![Teacher-Student Knowledge Distillation](./demo.gif)
+
 # Main Content
 ## Quick links to sections in this page
 
