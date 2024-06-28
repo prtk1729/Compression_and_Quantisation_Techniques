@@ -7,7 +7,6 @@ Here is a demo of the project:
 ![Teacher-Student Knowledge Distillation](out_files.nosync/knowledge_distillation_output.gif)
 
 # Main Content
-## Quick links to sections in this page
 
 ## Concepts 
 
